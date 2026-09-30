@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:ElSadek;Omar;;;
+FN:Omar ElSadek
+ORG:Agrocorp for Agriculture Investment
+TITLE:Operations & Strategy
+TEL;TYPE=CELL,VOICE:+201111115831
+EMAIL;TYPE=INTERNET,WORK:omar@agrocorp.net
+URL:https://www.agrocorp.net
+ADR;TYPE=WORK:;;17 ElCanal St.\, El Maadi;Cairo;;;Egypt
+END:VCARD
